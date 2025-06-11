@@ -56,18 +56,3 @@ Kulahara, M. (2025). Code for Delhi LST and UHI Analysis (2022–2024). GitHub R
 
 ---
 
-### ✅ Next Steps:
-
-I’ve packaged everything neatly. You can now:
-
-👉 [Download the ZIP file here](sandbox:/mnt/data/Delhi_LST_UHI_Analysis.zip)
-
-After extracting:
-
-1. Upload it to your GitHub.
-2. Replace the URL in the `README.md` with your actual GitHub repo link.
-3. Mention the link in your research paper.
-
----
-
-Let me know if you'd like to generate plots or statistics from these GeoTIFFs too.
